@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>676050042765-q942ih3shr78275ltoc6dlkb39luj335.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.676050042765-q942ih3shr78275ltoc6dlkb39luj335</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>676050042765-dmbi1q61m7fs0df7fsdp4mpn7nj01fs3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBG-zbNHgytTVm8rRtLQjbRptfFWiy6GyU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>676050042765</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smartersvision.doctors-appointments</string>
+	<key>PROJECT_ID</key>
+	<string>doctors-appointments-52a7a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doctors-appointments-52a7a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:676050042765:ios:7c0b702c23ca62000747c4</string>
+</dict>
+</plist>

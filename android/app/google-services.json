@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "676050042765",
+    "project_id": "doctors-appointments-52a7a",
+    "storage_bucket": "doctors-appointments-52a7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676050042765:android:e0599184865f7cdd0747c4",
+        "android_client_info": {
+          "package_name": "com.smartersvision.doctors_appointments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676050042765-clfnm2ppj6reje5c4g0qo36r4jv0rgvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.doctors_appointments",
+            "certificate_hash": "fae9ead62e06085c496665decee29b1b40b2ca11"
+          }
+        },
+        {
+          "client_id": "676050042765-kbmpptqdlo2mas26393kuikfshc932p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFPmvsQmgnlGpedxhM72kJV7VxBKiYk7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676050042765-kbmpptqdlo2mas26393kuikfshc932p4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "676050042765-q942ih3shr78275ltoc6dlkb39luj335.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartersvision.doctors-appointments"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676050042765:android:e060cf0c4411fcf00747c4",
+        "android_client_info": {
+          "package_name": "com.smartersvision.doctors_appointments_patients"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676050042765-kbmpptqdlo2mas26393kuikfshc932p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFPmvsQmgnlGpedxhM72kJV7VxBKiYk7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676050042765-kbmpptqdlo2mas26393kuikfshc932p4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "676050042765-q942ih3shr78275ltoc6dlkb39luj335.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartersvision.doctors-appointments"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
